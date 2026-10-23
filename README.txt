@@ -1,6 +1,9 @@
 
 This is a README file for my Creative Coding Dear Data Project
 
+This will be a sketch of a set of data I will collecting for the next 30 days.
+
+
 
 This is a list of ideas I have for the Project and i'm deciding on which one to do
 
