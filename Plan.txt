@@ -1,1 +1,7 @@
 -Use the Youtube Music or Spotify music history and use that data to present how much music I listen everyday. The data will be exported from Youtube and Spotify. Limit it to 100 pieces of data.
+
+
+
+
+Plan:
+Use a YT Music to csv file converter to save data to the GitHub csv file
