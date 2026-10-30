@@ -5,3 +5,4 @@
 
 Plan:
 Use a YT Music to csv file converter to save data to the GitHub csv file
+Cut it to 100 data for now just for part 1.
