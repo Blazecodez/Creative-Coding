@@ -5,25 +5,35 @@ This will be a sketch of a set of data I will collecting for the next 30 days.
 
 
 
+A Processing sketch that visualises my YouTube Music listening history.
 
 
 
-Substitute (S): Consider replacing a component, material, or process with something else to see if it improves the idea or outcome
+About:
 
-Combine (C): Explore ways to merge ideas, features, or resources to create something new or more effective
+1-2 sentences: what the sketch shows and why you chose this data that I will add later
 
-Adapt (A): Adjust or modify an existing idea to fit a new context or solve a different problem
 
-Modify (M): Change aspects such as size, shape, color, or intensity to enhance the concept
 
-Put to another use (P): Identify alternative applications for the idea, product, or process
 
-Eliminate (E): Remove unnecessary elements to simplify or improve efficiency 
 
-Reverse (R): Rearrange, invert, or reverse the order or function to discover new possibilities
+Data
+Source: my YouTube Music history, exported with Google Takeout (JSON)
+Size: [N] plays, from [start date] to [end date]
+Fields used: [e.g. song title, artist, timestamp]
+How to read it
 
-This is a list of ideas I have for the Project and i'm deciding on which one to do
 
+
+What I learned
+
+
+
+How to run
+Install Processing
+Open [SketchName]/[SketchName].pde
+Make sure the data file is in the sketch's data folder
+Press Run
 
 
 
