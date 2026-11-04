@@ -1,5 +1,5 @@
 
-This is a README file for my Creative Coding Dear Data Project
+This is a README file for my Creative Coding Dear Data Project  (Still work in progress)
 
 This will be a sketch of a set of data I will collecting for the next 30 days.
 
@@ -11,7 +11,7 @@ A Processing sketch that visualises my YouTube Music listening history.
 
 About:
 
-1-2 sentences: what the sketch shows and why you chose this data that I will add later
+I'm collecting data on how much music I listen to daily and when I listen to them. I collected the songs that I played and which time and date I played them in a csv file.
 
 
 
@@ -19,8 +19,10 @@ About:
 
 Data
 Source: my YouTube Music history, exported with Google Takeout (JSON)
-Size: [N] plays, from [start date] to [end date]
-Fields used: [e.g. song title, artist, timestamp]
+Size: [N] plays, from [start date] to [end date]  (still to be decided)
+Fields used: Date, time, title, artist
+
+
 How to read it
 
 
